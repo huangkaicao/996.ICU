@@ -117,6 +117,6 @@
 |深圳|[尊豪网络科技有限公司](www.szzunhao.com/)|2019年4月7日|每天10小时|[看准网](https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage)|
 |泰安|[浪潮软件](www.inspur.com/)|2019年4月7日|6*12 ！|[看准网](https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10),[知乎](https://www.zhihu.com/question/53373183/answer/139767404)|
 |北京|[作业帮](https://www.zybang.com/)|2019年4月7日| 大小周 |[看准网](https://www.kanzhun.com/pl6288762.html)|
-
+|南宁|[南宁市第三中学](http://www.nnsz.com/)|2019年4月7日|6*12 ！|[百度贴吧](http://tieba.baidu.com/p/5774339395?share=9105&fr=share&see_lz=0&sfc=copy&client_type=2&client_version=9.6.8.0&st=1530346665&unique=DB5DA37C8CC4FE680CF673340E364BEC)|
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
